@@ -1,6 +1,5 @@
 numpy
 matplotlib
-json
 urllib
 pprint
 pandas
