@@ -1,4 +1,7 @@
 numpy
 matplotlib
-pylab
 jason
+urllib
+pprint
+pandas
+datetime
